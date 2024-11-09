@@ -1,0 +1,1 @@
+Developed a binary classification system that distinguishes real gamma signals from hadrons (background noise). 3 Machine learning algorithms will be used to accomplish this task. They are K- Nearest Neighbors (k-NN), Neural Networks, Support Vector Machines (SVM). These methods will be implemented in Python from scratch.
